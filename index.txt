@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>R.C ELECTRONICS</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; }
+    header { background: #2196F3; color: #fff; padding: 30px; text-align: center;}
+    nav { background:#1976D2; padding:10px; text-align:center;}
+    nav a { color: #fff; margin:15px; text-decoration: none; font-weight: bold;}
+    section { padding: 20px; background: #fff; margin: 30px auto; max-width: 700px; border-radius:10px;}
+    footer { text-align: center; padding: 20px; color: #888; }
+    h1 { margin:0; }
+  </style>
+</head>
+<body>
+  <header>
+      <h1>R.C ELECTRONICS</h1>
+      <p>आपका स्वागत है!</p>
+  </header>
+  <nav>
+      <a href="#">HOME</a>
+      <a href="#">24*7</a>
+      <a href="#">8417076444</a>
+  </nav>
+  <section>
+      <h2>हमारी सर्विस</h2>
+      <p>✅ Why Choose Us?
+
+High-quality and professional service
+
+On-time delivery / completion
+
+Affordable rates with full transparency
+
+Customer satisfaction is our top priority
+
+Experienced and skilled team
+
+✅ Our Specialties
+
+24x7 customer support
+
+Customized solutions as per your needs
+
+Trust and long-term relationships
+
+📞 Contact Us:
+Mobile: [8417076444]
+WhatsApp: [Your link]
+Address: [Your location]</p>
+      <ul>
+          <li>सर्विस 1</li>
+          <li>सर्विस 2</li>
+          <li>सर्विस 3</li>
+      </ul>
+  </section>
+  <footer>
+      &copy; 2025 मेरा बिजनेस | Contact: 8417076444
+  </footer>
+</body>
+</html>
